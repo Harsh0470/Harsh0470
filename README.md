@@ -1,3 +1,3 @@
 This is my first Git Repository.
 <!--<br>-->
-Author - Harsh Mishra (Lalla)
+Author - Harsh Mishra
